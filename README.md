@@ -1,1 +1,1 @@
-<img src="https://github.com/Boseidono/boseidono/blob/main/.43.jpg?raw=true"Profil Banner: exodus project" width="100%">
+<img src="https://github.com/Boseidono/boseidono/blob/main/.43.jpg?raw=true" alt="Profil Banner: exodus project" width="100%">
